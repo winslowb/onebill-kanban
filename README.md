@@ -38,6 +38,8 @@ cd onebill-kanban
 go build -o onebill ./cmd
 ./onebill
 
+```
+
 ✅ What You Can Do Today
 Run ./onebill
 
@@ -73,5 +75,3 @@ Submit issues / feature requests on GitHub
 Share keyboard shortcuts or workflow tips!
 
 Open-source contributions welcome 💡
-
-
